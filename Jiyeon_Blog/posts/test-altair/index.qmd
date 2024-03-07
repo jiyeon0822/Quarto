@@ -1,9 +1,0 @@
----
-title: "test with altair"
-author: "jiyeon"
-date: "2024-03-07"
-categories: [test]
----
-
-This is a post with executable code.
-
